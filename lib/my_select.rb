@@ -1,5 +1,5 @@
 def my_select(collection)
  # your code here!
- collection.select { |number| number.even?}
+ number.select { |number| number.even?}
  return collection
 end
